@@ -45,8 +45,11 @@ To make my project more advanced and feature-rich, working on integrate addition
 
 working on--   
 
-1.Database Integration.
+1.Database Integration.    
+
 2.Budget Alerts.
+
 3.Advanced Visualization.
+
 4.Mobile or Web Interface.
 
