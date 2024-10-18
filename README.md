@@ -1,5 +1,6 @@
 ﻿# Personal--Finance--Tracker-
 Overview of the Project:
+
 My project is a Personal--Finance--Tracker designed to help users track their income and expenses. The tool is especially useful for students and individuals who may overlook smaller, day-to-day expenses, which add up over time. It allows users to log transactions, view them within a specified date range, and visualize their financial data, making budgeting more transparent. The motivation for this project came from personal experiences and feedback from friends who struggled with financial awareness.
 
 
