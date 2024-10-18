@@ -42,7 +42,9 @@ Visualizing financial data provides an intuitive way to understand income and ex
 
 Future Enhancements for This Project:
 To make my project more advanced and feature-rich, working on integrate additional features and use more robust systems for data storage, such as MySQL or MongoDB.
-working on--
+
+working on--   
+
 1.Database Integration.
 2.Budget Alerts.
 3.Advanced Visualization.
