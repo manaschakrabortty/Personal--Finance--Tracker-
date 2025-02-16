@@ -1,4 +1,4 @@
-﻿# Personal--Finance--Tracker
+﻿# Personal--Finance--Tracker With AI Integretion
  
 Overview of the Project:
 
