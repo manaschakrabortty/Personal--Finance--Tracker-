@@ -2,26 +2,29 @@
  
 Overview of the Project:
 
-My project is a Personal--Finance--Tracker designed to help users track their income and expenses. The tool is especially useful for students and individuals who may overlook smaller, day-to-day expenses, which add up over time. It allows users to log transactions, view them within a specified date range, and visualize their financial data, making budgeting more transparent. The motivation for this project came from personal experiences and feedback from friends who struggled with financial awareness.
+My project is a Personal--Finance--Tracker designed to help users track their income and expenses. The tool is especially useful for students and individuals who may overlook smaller, day-to-day expenses, 
+which add up over time. It allows users to log transactions, view them within a specified date range, and visualize their financial data, making budgeting more transparent. The motivation for this project
+came from personal experiences and feedback from friends who struggled with financial awareness.
 
 
 Tech Stack and Why I Chose It:
 1. Python:
-Python is an accessible, high-level language that has strong libraries for data handling and visualization. Its versatility made it the best choice for a project involving file operations, data management, and plotting.
+Python is an accessible, high-level language that has strong libraries for data handling and visualization. Its versatility made it the best choice for a project
+ involving file operations, data management,and plotting.
 
-2. pandas:
+3. pandas:
 Why: pandas excels at data manipulation and analysis. It offers fast, flexible, and expressive data structures, making it ideal for reading, filtering, and processing financial transactions.
 Usage: I used pandas to manage CSV files, filter transactions based on date, and calculate summaries like total income, expenses, and savings.
 
-3. CSV Module:
+4. CSV Module:
 Why: Since CSV files are lightweight and human-readable, they are a practical choice for storing financial data without the complexity of a full database.
 Usage: I used the csv module to append new transaction entries to a file and ensure data persistence.
 
-4. matplotlib:
+5. matplotlib:
 Why: matplotlib is widely used for data visualization in Python. It provides extensive customization options for creating 5. detailed plots.
 Usage: I used it to plot income and expense trends over time, which helps users visually track their financial progress.
 
-5. datetime Module:
+6. datetime Module:
 Why: This module helps in managing date formats and comparisons, crucial for filtering transactions by date ranges.
 Usage: It ensures that user input is converted into a proper date format, making it easier to perform operations like filtering and date-based plotting.
 
