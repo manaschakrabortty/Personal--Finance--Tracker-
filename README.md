@@ -23,7 +23,7 @@ Usage: I used the csv module to append new transaction entries to a file and ens
 5. matplotlib:
 Why: matplotlib is widely used for data visualization in Python. It provides extensive customization options for creating 5. detailed plots.
 Usage: I used it to plot income and expense trends over time, which helps users visually track their financial progress.
-
+CSV Module  ->Database Integration.
 6. datetime Module:
 Why: This module helps in managing date formats and comparisons, crucial for filtering transactions by date ranges.
 Usage: It ensures that user input is converted into a proper date format, making it easier to perform operations like filtering and date-based plotting.
